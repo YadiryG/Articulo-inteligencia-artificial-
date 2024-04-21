@@ -23,19 +23,19 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
       <th scope="row">1</th>
       <td>Siri (Apple)</td>
       <td>86.2%</td>
-      <td></td>
+     
     </tr>
     <tr>
       <th scope="row">2</th>
       <td>Asistente Google</td>
       <td>11.6%</td>
-      <td></td>
+     
     </tr>
     <tr>
       
       <th scope="row">3</th>
       <td>Alexa (Amazon)</td>
-      <td>9.8%</td> &#xF68D;
+      <td>9.8%</td>
     </tr>
   </tbody>
 </table>
