@@ -82,8 +82,6 @@ La Tabla 2 muestra los diferentes niveles de autonomía en vehículos y sus capa
   </tbody>
 </table>
 
-https://thelogisticsworld.com/tecnologia/tendencias-en-inteligencia-artificial-para-el-sector-automotriz/
-
 *"La conducción autónoma no solo transformará la forma en que nos desplazamos, sino también la sociedad en su conjunto"* - Elon Musk
 
 ## 4. Detección de Fraude Financiero
@@ -113,8 +111,11 @@ La Figura 3 muestra cómo funcionan los algoritmos de recomendación en Netflix.
 
 ## Enlaces
 [Google](https://www.larepublica.co/internet-economy/los-asistentes-virtuales-que-usan-inteligencia-artificial-disponibles-en-el-mercado-3694472)
+
 [Google](https://peru21.pe/cheka/tecnologia/inteligencia-artificial-ya-supera-a-medicos-en-el-diagnostico-de-cancer-cancer-salud-ia-diagnostico-noticia/)
+
 [Google](https://thelogisticsworld.com/tecnologia/tendencias-en-inteligencia-artificial-para-el-sector-automotriz/)
+
 [Google](https://www.embat.io/blog/como-la-inteligencia-artificial-permite-evitar-fraudes-financieros#:~:text=La%20IA%20desempe%C3%B1a%20un%20papel,tomar%20decisiones%20en%20tiempo%20real.)
 
 
