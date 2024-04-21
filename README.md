@@ -81,6 +81,6 @@ La Tabla 2 muestra los diferentes niveles de autonomía en vehículos y sus capa
     </tr>
   </tbody>
 </table>
-[Google](https://thelogisticsworld.com/tecnologia/tendencias-en-inteligencia-artificial-para-el-sector-automotriz/))
+(https://thelogisticsworld.com/tecnologia/tendencias-en-inteligencia-artificial-para-el-sector-automotriz/))
 *"La conducción autónoma no solo transformará la forma en que nos desplazamos, sino también la sociedad en su conjunto"* - Elon Musk
 
