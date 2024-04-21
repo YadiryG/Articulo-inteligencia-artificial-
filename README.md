@@ -51,7 +51,7 @@ La Figura 1 muestra un ejemplo de cómo la IA puede ayudar en el diagnóstico m�
 >
 *"La IA tiene el potencial de democratizar la atención médica al ofrecer tratamientos personalizados y precisos a cada individuo"*- Andrew Ng
 
-## 3. Conducción Autónoma
+## 3. Conducción Autónoma 
 
 Los vehículos autónomos están revolucionando la industria del transporte al utilizar sensores y algoritmos de IA para percibir su entorno y tomar decisiones en tiempo real. 
 
