@@ -21,8 +21,7 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
     <tr>
       <th scope="row">1</th>
       <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      
     </tr>
     <tr>
       <th scope="row">2</th>
@@ -33,8 +32,7 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
     <tr>
       <th scope="row">3</th>
       <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
+      
     </tr>
   </tbody>
 </table>
