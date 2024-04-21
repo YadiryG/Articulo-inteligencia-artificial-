@@ -91,7 +91,7 @@ En el sector financiero, la IA se utiliza para detectar y prevenir el fraude de 
 La Figura 2 ilustra cómo la IA puede ayudar en la detección de fraude financiero.
 
 <p align="center">
-<img src="./logos/IA.jpg" height="500">
+<img src="./identidad.jpeg" height="500">
 </p> 
 
 ## 5. Entretenimiento Personalizado
