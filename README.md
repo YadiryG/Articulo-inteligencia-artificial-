@@ -116,7 +116,7 @@ La Figura 3 muestra cómo funcionan los algoritmos de recomendación en Netflix.
 
 ## Enlaces de interes 
 
-<a href="[https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://www.larepublica.co/internet-economy/los-asistentes-virtuales-que-usan-inteligencia-artificial-disponibles-en-el-mercado-3694472)" target="_blank">- Guía MarkDown</a>
+<a href="(https://www.larepublica.co/internet-economy/los-asistentes-virtuales-que-usan-inteligencia-artificial-disponibles-en-el-mercado-3694472)" target="_blank">- Guía MarkDown</a>
 [Google](https://www.larepublica.co/internet-economy/los-asistentes-virtuales-que-usan-inteligencia-artificial-disponibles-en-el-mercado-3694472)
 
 [Google](https://peru21.pe/cheka/tecnologia/inteligencia-artificial-ya-supera-a-medicos-en-el-diagnostico-de-cancer-cancer-salud-ia-diagnostico-noticia/)
