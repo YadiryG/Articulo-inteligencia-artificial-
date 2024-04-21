@@ -9,6 +9,21 @@ Los asistentes virtuales, como Siri, Alexa y Google Assistant, se han convertido
 La Tabla 1 presenta una comparación entre los principales asistentes virtuales del mercado.
 
 
-<table class="table table-success table-striped">
-  ...
+<table class="table">
+  <thead>
+    ...
+  </thead>
+  <tbody>
+    <tr class="table-active">
+      ...
+    </tr>
+    <tr>
+      ...
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td colspan="2" class="table-active">Larry the Bird</td>
+      <td>@twitter</td>
+    </tr>
+  </tbody>
 </table>
