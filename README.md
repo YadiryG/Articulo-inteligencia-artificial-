@@ -115,6 +115,8 @@ La Figura 3 muestra cómo funcionan los algoritmos de recomendación en Netflix.
 ###  *Estas son solo algunas de las muchas formas en que la inteligencia artificial está moldeando nuestro mundo. A medida que continuamos explorando las posibilidades de la IA, podemos esperar aún más innovaciones que cambiarán nuestra forma de vivir y trabajar.*
 
 ## Enlaces de interes 
+
+<a href="[https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://www.larepublica.co/internet-economy/los-asistentes-virtuales-que-usan-inteligencia-artificial-disponibles-en-el-mercado-3694472)" target="_blank">- Guía MarkDown</a>
 [Google](https://www.larepublica.co/internet-economy/los-asistentes-virtuales-que-usan-inteligencia-artificial-disponibles-en-el-mercado-3694472)
 
 [Google](https://peru21.pe/cheka/tecnologia/inteligencia-artificial-ya-supera-a-medicos-en-el-diagnostico-de-cancer-cancer-salud-ia-diagnostico-noticia/)
