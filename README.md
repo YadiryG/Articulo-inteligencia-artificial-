@@ -1,5 +1,6 @@
+---
 <h1 align="center">Descubriendo las Aplicaciones de la Inteligencia Artificial en la Vida Cotidiana</h1>
-
+>
 *"La inteligencia artificial no es un producto de la ciencia ficción, es una realidad que está transformando nuestras vidas"- Fei-Fei Li.* 
 
 En los últimos años, hemos sido testigos de cómo la inteligencia artificial (IA) ha dejado una huella significativa en nuestra vida diaria. Desde asistentes virtuales hasta vehículos autónomos, la IA está en todas partes, cambiando la forma en que interactuamos con el mundo que nos rodea. En este artículo, exploraremos algunas de las aplicaciones más impactantes de la IA, acompañadas de imágenes, citas inspiradoras y tablas informativas.
@@ -46,7 +47,7 @@ La Figura 1 muestra un ejemplo de cómo la IA puede ayudar en el diagnóstico m�
 <img src="./medical.jpeg" height="100">
 </p> 
 
-
+>
 *"La IA tiene el potencial de democratizar la atención médica al ofrecer tratamientos personalizados y precisos a cada individuo"*- Andrew Ng
 
 ## 3. Conducción Autónoma
@@ -81,7 +82,7 @@ La Tabla 2 muestra los diferentes niveles de autonomía en vehículos y sus capa
     </tr>
   </tbody>
 </table>
-
+>
 *"La conducción autónoma no solo transformará la forma en que nos desplazamos, sino también la sociedad en su conjunto"* - Elon Musk
 
 ## 4. Detección de Fraude Financiero
