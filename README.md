@@ -96,3 +96,21 @@ La Figura 2 ilustra cómo la IA puede ayudar en la detección de fraude financie
 <img src="./logos/IA.jpg" height="500">
 </p> 
 
+**5. Entretenimiento Personalizado**
+
+Plataformas de streaming como Netflix y Spotify utilizan algoritmos de IA para recomendar contenido personalizado a cada usuario. Estos sistemas analizan el historial de visualización o escucha de un usuario y ofrecen recomendaciones basadas en sus preferencias individuales. 
+
+La Figura 3 muestra cómo funcionan los algoritmos de recomendación en Netflix.
+
+<p align="center">
+<img src="./logos/IA.jpg" height="500">
+</p> 
+
+*"La IA está transformando la forma en que consumimos contenido, brindando experiencias más personalizadas y relevantes"* - Reed Hastings
+
+##
+**Estas son solo algunas de las muchas formas en que la inteligencia artificial está moldeando nuestro mundo. A medida que continuamos explorando las posibilidades de la IA, podemos esperar aún más innovaciones que cambiarán nuestra forma de vivir y trabajar.**
+
+
+
+
