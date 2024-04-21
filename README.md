@@ -32,9 +32,9 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
       <td></td>
     </tr>
     <tr>
-      <i class="bi bi-amazon"></i>
+      
       <th scope="row">3</th>
-      <td>Alexa (Amazon)</td>
+      <td>Alexa (Amazon)</td><i class="bi bi-amazon"></i>
       <td>9.8%</td>
       <td></td>
     </tr>
