@@ -36,7 +36,7 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
   </tbody>
 </table>
 
- **1. Medicina Personalizada**
+ **2. Medicina Personalizada**
 
 La IA está revolucionando la atención médica al permitir la personalización de tratamientos según las características individuales de cada paciente. Los algoritmos de IA pueden analizar grandes conjuntos de datos clínicos y genéticos para identificar patrones y predecir la eficacia de diferentes tratamientos.
 
