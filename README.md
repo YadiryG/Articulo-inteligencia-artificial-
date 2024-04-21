@@ -66,18 +66,18 @@ La Tabla 2 muestra los diferentes niveles de autonomía en vehículos y sus capa
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Amazon Alexa</td>
-      <td>110.2%</td>   
+      <td>Conduccion autonoma</td>
+      <td>Asistente de voz</td>   
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Google Assistant</td>
-      <td>97.3%</td>
+      <td>Personalización del entretenimiento en el automóvil</td>
+      <td>Alertas de seguridad</td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>Apple Siri</td>
-      <td>38.3%</td>
+      <td>Mantenimiento predictivo</td>
+      <td>Navegación inteligente</td>
     </tr>
   </tbody>
 </table>
