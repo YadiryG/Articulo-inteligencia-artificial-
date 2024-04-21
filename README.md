@@ -104,6 +104,7 @@ La Figura 3 muestra cómo funcionan los algoritmos de recomendación en Netflix.
 <img src="./netflix.jpeg" height="100">
 </p> 
 
+>
 *"La IA está transformando la forma en que consumimos contenido, brindando experiencias más personalizadas y relevantes"* - Reed Hastings
 
 ---
