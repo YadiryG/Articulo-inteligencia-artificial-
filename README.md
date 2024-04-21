@@ -6,9 +6,8 @@ En los últimos años, hemos sido testigos de cómo la inteligencia artificial (
 
  **1. Asistentes Virtuales**
 Los asistentes virtuales, como Siri, Alexa y Google Assistant, se han convertido en compañeros digitales omnipresentes en nuestros dispositivos inteligentes y hogares. Estos sistemas utilizan técnicas de procesamiento del lenguaje natural y aprendizaje automático para proporcionar respuestas rápidas y precisas a nuestras consultas.
+
 La Tabla 1 presenta una comparación entre los principales asistentes virtuales del mercado.
-
-
 <table class="table">
   <thead>
     <tr>
