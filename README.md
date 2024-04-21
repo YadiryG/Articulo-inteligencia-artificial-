@@ -81,8 +81,18 @@ La Tabla 2 muestra los diferentes niveles de autonomía en vehículos y sus capa
     </tr>
   </tbody>
 </table>
-(https://thelogisticsworld.com/tecnologia/tendencias-en-inteligencia-artificial-para-el-sector-automotriz/)
 
+https://thelogisticsworld.com/tecnologia/tendencias-en-inteligencia-artificial-para-el-sector-automotriz/
 
 *"La conducción autónoma no solo transformará la forma en que nos desplazamos, sino también la sociedad en su conjunto"* - Elon Musk
+
+**4. Detección de Fraude Financiero**
+
+En el sector financiero, la IA se utiliza para detectar y prevenir el fraude de manera más efectiva que nunca. Los algoritmos pueden analizar patrones de transacciones financieras y comportamientos sospechosos para identificar posibles fraudes.
+
+La Figura 2 ilustra cómo la IA puede ayudar en la detección de fraude financiero.
+
+<p align="center">
+<img src="./logos/IA.jpg" height="500">
+</p> 
 
