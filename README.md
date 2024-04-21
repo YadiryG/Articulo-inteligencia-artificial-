@@ -43,6 +43,6 @@ La IA está revolucionando la atención médica al permitir la personalización 
 La Figura 1 muestra un ejemplo de cómo la IA puede ayudar en el diagnóstico médico.
 
 <p align="center">
-<img src="./imagenes/resonancia.JPEG" height="100">
+<img src="./imagenes/images.JPEG" height="100">
 </p>
  
