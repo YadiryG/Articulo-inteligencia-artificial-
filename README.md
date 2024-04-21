@@ -101,7 +101,7 @@ Plataformas de streaming como Netflix y Spotify utilizan algoritmos de IA para r
 La Figura 3 muestra cómo funcionan los algoritmos de recomendación en Netflix.
 
 <p align="center">
-<img src="./logos/IA.jpg" height="500">
+<img src="./netflix.jpeg" height="200">
 </p> 
 
 *"La IA está transformando la forma en que consumimos contenido, brindando experiencias más personalizadas y relevantes"* - Reed Hastings
