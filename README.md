@@ -21,19 +21,19 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td></td>
+      <td>Siri (Apple)</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Siri (Apple)</td>
       <td>Asistente Google</td>
-      <td>Alexa (Amazon)</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>Larry</td>
+      <td>Alexa (Amazon)</td>
       <td>the Bird</td>
       <td>@twitter</td>
     </tr>
