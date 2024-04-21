@@ -34,11 +34,15 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
       <td>Jacob</td>
       <td>Thornton</td>
       <td>@fat</td>
+      <td>Thornton</td>
+      <td>@fat</td>
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>Larry</td>
       <td>the Bird</td>
+      <td>@twitter</td>
+       <td>the Bird</td>
       <td>@twitter</td>
     </tr>
   </tbody>
