@@ -15,7 +15,7 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
      <th scope="col">#</th>
       <th scope="col">Asistentes más utilizados</th>
       <th scope="col">Comparación en %</th>
-      <th scope="col">Mención</th>
+   
       </th>
   </thead>
   <tbody>
