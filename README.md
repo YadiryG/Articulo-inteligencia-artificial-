@@ -41,8 +41,8 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
 La IA está revolucionando la atención médica al permitir la personalización de tratamientos según las características individuales de cada paciente. Los algoritmos de IA pueden analizar grandes conjuntos de datos clínicos y genéticos para identificar patrones y predecir la eficacia de diferentes tratamientos.
 
 La Figura 1 muestra un ejemplo de cómo la IA puede ayudar en el diagnóstico médico.
-
+## imagenes
 <p align="center">
-<img src="./YADY/imagenes/images.jpg" height="100">
+<img src="./imagenes/images.jpg" height="100">
 </p>
  
