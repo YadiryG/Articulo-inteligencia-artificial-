@@ -13,17 +13,16 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
   <thead>
     <tr>
       <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">Asistentes más utilizados</th>
+      
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <td>Siri (Apple)</td>
+      <td>Asistente Google</td>
+      <td>Alexa (Amazon)</td>
     </tr>
     <tr>
       <th scope="row">2</th>
