@@ -14,8 +14,7 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
     <tr>
       <th scope="col">#</th>
       <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      
     </tr>
   </thead>
   <tbody>
