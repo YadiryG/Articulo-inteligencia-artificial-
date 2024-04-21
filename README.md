@@ -41,8 +41,46 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
 La IA está revolucionando la atención médica al permitir la personalización de tratamientos según las características individuales de cada paciente. Los algoritmos de IA pueden analizar grandes conjuntos de datos clínicos y genéticos para identificar patrones y predecir la eficacia de diferentes tratamientos.
 
 La Figura 1 muestra un ejemplo de cómo la IA puede ayudar en el diagnóstico médico.
-## imagenes
+
 <p align="center">
 <img src="./logos/images.jpg" height="500">
 </p> 
+
+
+*"La IA tiene el potencial de democratizar la atención médica al ofrecer tratamientos personalizados y precisos a cada individuo" - Andrew Ng*
+
+**3. Conducción Autónoma**
+
+Los vehículos autónomos están revolucionando la industria del transporte al utilizar sensores y algoritmos de IA para percibir su entorno y tomar decisiones en tiempo real. 
+
+La Tabla 2 muestra los diferentes niveles de autonomía en vehículos y sus capacidades asociadas.
+
+<table class="table"align="center"> 
+  <thead>
+    <tr>
+     <th scope="col">#</th>
+      <th scope="col">Tendencias Actuales</th>
+      <th scope="col">Aplicaciones de la IA en autos</th>
+      </th>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Amazon Alexa</td>
+      <td>110.2%</td>   
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Google Assistant</td>
+      <td>97.3%</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Apple Siri</td>
+      <td>38.3%</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
