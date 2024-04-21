@@ -43,7 +43,7 @@ La IA está revolucionando la atención médica al permitir la personalización 
 La Figura 1 muestra un ejemplo de cómo la IA puede ayudar en el diagnóstico médico.
 
 <p align="center">
-<img src="./medical.jpeg" height="200">
+<img src="./medical.jpeg" height="100">
 </p> 
 
 
@@ -91,7 +91,7 @@ En el sector financiero, la IA se utiliza para detectar y prevenir el fraude de 
 La Figura 2 ilustra cómo la IA puede ayudar en la detección de fraude financiero.
 
 <p align="center">
-<img src="./identidad.jpeg" height="200">
+<img src="./identidad.jpeg" height="100">
 </p> 
 
 ## 5. Entretenimiento Personalizado
@@ -101,7 +101,7 @@ Plataformas de streaming como Netflix y Spotify utilizan algoritmos de IA para r
 La Figura 3 muestra cómo funcionan los algoritmos de recomendación en Netflix.
 
 <p align="center">
-<img src="./netflix.jpeg" height="200">
+<img src="./netflix.jpeg" height="100">
 </p> 
 
 *"La IA está transformando la forma en que consumimos contenido, brindando experiencias más personalizadas y relevantes"* - Reed Hastings
