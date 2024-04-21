@@ -12,11 +12,10 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
 <table class="table">
   <thead>
     <tr>
-     <th scope="row">1</th>
+     <th scope="#">1</th>
       <th scope="col">Asistentes más utilizados</th>
       <th scope="col">Comparación en %</th>
-      
-    </tr>
+      </th>
   </thead>
   <tbody>
     <tr>
