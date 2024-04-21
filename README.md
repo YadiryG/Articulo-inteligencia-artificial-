@@ -42,9 +42,7 @@ La IA está revolucionando la atención médica al permitir la personalización 
 
 La Figura 1 muestra un ejemplo de cómo la IA puede ayudar en el diagnóstico médico.
 
-<p align="center">
-<img src="./logos/images.jpg" height="500">
-</p> 
+<img src="images/images.jpeg" />
 
 
 *"La IA tiene el potencial de democratizar la atención médica al ofrecer tratamientos personalizados y precisos a cada individuo"*- Andrew Ng
