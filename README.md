@@ -2,7 +2,7 @@
 <h1 align="center">Descubriendo las Aplicaciones de la Inteligencia Artificial en la Vida Cotidiana</h1>
 
 >
-*"La inteligencia artificial no es un producto de la ciencia ficción, es una realidad que está transformando nuestras vidas"- Fei-Fei Li.* 
+*"La inteligencia artificial no es un producto de la ciencia ficción, es una realidad que está transformando nuestras vidas"- Fei-Fei Li.*  
 
 En los últimos años, hemos sido testigos de cómo la inteligencia artificial (IA) ha dejado una huella significativa en nuestra vida diaria. Desde asistentes virtuales hasta vehículos autónomos, la IA está en todas partes, cambiando la forma en que interactuamos con el mundo que nos rodea. En este artículo, exploraremos algunas de las aplicaciones más impactantes de la IA, acompañadas de imágenes, citas inspiradoras y tablas informativas.
 
@@ -116,16 +116,16 @@ La Figura 3 muestra cómo funcionan los algoritmos de recomendación en Netflix.
 
 ## Enlaces de interes 
 
-<a href="(https://www.larepublica.co/internet-economy/los-asistentes-virtuales-que-usan-inteligencia-artificial-disponibles-en-el-mercado-3694472)" target="_blank">-Asistentes Virtuales</a>
+<a href="(https://www.larepublica.co/internet-economy/los-asistentes-virtuales-que-usan-inteligencia-artificial-disponibles-en-el-mercado-3694472)" target="_blank">- Asistentes Virtuales</a>
 
-<a href="(https://peru21.pe/cheka/tecnologia/inteligencia-artificial-ya-supera-a-medicos-en-el-diagnostico-de-cancer-cancer-salud-ia-diagnostico-noticia/)" target="_blank">-Medicina Personalizada</a>
+<a href="(https://peru21.pe/cheka/tecnologia/inteligencia-artificial-ya-supera-a-medicos-en-el-diagnostico-de-cancer-cancer-salud-ia-diagnostico-noticia/)" target="_blank">- Medicina Personalizada</a>
 
-<a href="(https://thelogisticsworld.com/tecnologia/tendencias-en-inteligencia-artificial-para-el-sector-automotriz/)" target="_blank">-Conducción Autonoma</a>
+<a href="(https://thelogisticsworld.com/tecnologia/tendencias-en-inteligencia-artificial-para-el-sector-automotriz/)" target="_blank">- Conducción Autonoma</a>
 
 <a href="(https://www.embat.io/blog/como-la-inteligencia-artificial-permite-evitar-fraudes-financieros#:~:text=La%20IA%20desempe%C3%B1a%20un%20papel,tomar%20decisiones%20en%20tiempo%20real.)
-" target="_blank">-Detección de Fraude Financiero</a>
+" target="_blank">- Detección de Fraude Financiero</a>
 
-<a href="(https://computerhoy.com/noticias/tecnologia/entendiendo-enemigo-como-funciona-sistema-recomendaciones-netflix-1084739)" target="_blank">-Entretenimiento Personalizado</a>
+<a href="(https://computerhoy.com/noticias/tecnologia/entendiendo-enemigo-como-funciona-sistema-recomendaciones-netflix-1084739)" target="_blank">- Entretenimiento Personalizado</a>
 
 
 ---
