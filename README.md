@@ -111,7 +111,7 @@ La Figura 3 muestra cómo funcionan los algoritmos de recomendación en Netflix.
 >
 *"La IA está transformando la forma en que consumimos contenido, brindando experiencias más personalizadas y relevantes"* - Reed Hastings
 
-----
+
 ###  *Estas son solo algunas de las muchas formas en que la inteligencia artificial está moldeando nuestro mundo. A medida que continuamos explorando las posibilidades de la IA, podemos esperar aún más innovaciones que cambiarán nuestra forma de vivir y trabajar.*
 
 ## Enlaces de interes 
