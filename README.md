@@ -1,2 +1,2 @@
-## Inteligencia Artificial
-Se centra en el desarrollo de sistemas y máquinas capaces de realizar tareas que, tradicionalmente, requerirían inteligencia humana.
+<h1 align="center">Descubriendo las Aplicaciones de la Inteligencia Artificial en la Vida Cotidiana</h1>
+
