@@ -123,9 +123,10 @@ La Figura 3 muestra cómo funcionan los algoritmos de recomendación en Netflix.
 
 [Google](https://www.embat.io/blog/como-la-inteligencia-artificial-permite-evitar-fraudes-financieros#:~:text=La%20IA%20desempe%C3%B1a%20un%20papel,tomar%20decisiones%20en%20tiempo%20real.)
 
-###
-- [x] Tarea completada
-- [ ] Tarea pendiente
+---
+#
+- [x] Trabajo completado
+
 
 
 
