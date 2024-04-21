@@ -10,17 +10,27 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
 
 
 <!-- On rows -->
-<tr class="bg-primary">...</tr>
-<tr class="bg-success">...</tr>
-<tr class="bg-warning">...</tr>
-<tr class="bg-danger">...</tr>
-<tr class="bg-info">...</tr>
+<tr class="table-active">...</tr>
+
+<tr class="table-primary">...</tr>
+<tr class="table-secondary">...</tr>
+<tr class="table-success">...</tr>
+<tr class="table-danger">...</tr>
+<tr class="table-warning">...</tr>
+<tr class="table-info">...</tr>
+<tr class="table-light">...</tr>
+<tr class="table-dark">...</tr>
 
 <!-- On cells (`td` or `th`) -->
 <tr>
-  <td class="bg-primary">...</td>
-  <td class="bg-success">...</td>
-  <td class="bg-warning">...</td>
-  <td class="bg-danger">...</td>
-  <td class="bg-info">...</td>
+  <td class="table-active">...</td>
+
+  <td class="table-primary">...</td>
+  <td class="table-secondary">...</td>
+  <td class="table-success">...</td>
+  <td class="table-danger">...</td>
+  <td class="table-warning">...</td>
+  <td class="table-info">...</td>
+  <td class="table-light">...</td>
+  <td class="table-dark">...</td>
 </tr>
