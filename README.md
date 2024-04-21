@@ -14,21 +14,22 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
     <tr>
       <th scope="col">#</th>
       <th scope="col">Asistentes más utilizados</th>
+      <th scope="col">Comparación en %</th>
       
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Siri (Apple)</td>
-      <td>Asistente Google</td>
-      <td>Alexa (Amazon)</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
+      <td>Siri (Apple)</td>
+      <td>Asistente Google</td>
+      <td>Alexa (Amazon)</td>
     </tr>
     <tr>
       <th scope="row">3</th>
