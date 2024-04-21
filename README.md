@@ -15,4 +15,10 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
 <tr class="bg-danger">...</tr>
 <tr class="bg-info">...</tr>
 
-   
+ <tr>
+  <td class="bg-primary">...</td>
+  <td class="bg-success">...</td>
+  <td class="bg-warning">...</td>
+  <td class="bg-danger">...</td>
+  <td class="bg-info">...</td>
+</tr>  
