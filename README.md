@@ -1,5 +1,5 @@
 ---
-<h1 align font color="blue center">Explorando las Aplicaciones de la Inteligencia Artificial en la Vida Cotidiana</h1>
+<h1 align="center">Explorando las Aplicaciones de la Inteligencia Artificial en la Vida Cotidiana</h1> <FONT COLOR="blue">Texto AZUL </FONT>
 
 >
 *"La inteligencia artificial no es un producto de la ciencia ficción, es una realidad que está transformando
