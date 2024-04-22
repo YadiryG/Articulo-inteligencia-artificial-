@@ -2,13 +2,19 @@
 <h1 align="center">Descubriendo las Aplicaciones de la Inteligencia Artificial en la Vida Cotidiana</h1>
 
 >
-*"La inteligencia artificial no es un producto de la ciencia ficción, es una realidad que está transformando nuestras vidas"- Fei-Fei Li.*  
+*"La inteligencia artificial no es un producto de la ciencia ficción, es una realidad que está transformando
+ nuestras vidas"- Fei-Fei Li.*  
 
-En los últimos años, hemos sido testigos de cómo la inteligencia artificial (IA) ha dejado una huella significativa en nuestra vida diaria. Desde asistentes virtuales hasta vehículos autónomos, la IA está en todas partes, cambiando la forma en que interactuamos con el mundo que nos rodea. En este artículo, exploraremos algunas de las aplicaciones más impactantes de la IA, acompañadas de imágenes, citas inspiradoras y tablas informativas.
+En los últimos años, hemos sido testigos de cómo la inteligencia artificial (IA) ha dejado una huella significativa
+en nuestra vida diaria. Desde asistentes virtuales hasta vehículos autónomos, la IA está en todas partes, 
+cambiando la forma en que interactuamos con el mundo que nos rodea. En este artículo, exploraremos algunas 
+de las aplicaciones más impactantes de la IA, acompañadas de imágenes, citas inspiradoras y tablas informativas.
 
 ## 1. Asistentes Virtuales 
  
-Los asistentes virtuales, como Siri, Alexa y Google Assistant, se han convertido en compañeros digitales omnipresentes en nuestros dispositivos inteligentes y hogares. Estos sistemas utilizan técnicas de procesamiento del lenguaje natural y aprendizaje automático para proporcionar respuestas rápidas y precisas a nuestras consultas.
+Los asistentes virtuales, como Siri, Alexa y Google Assistant, se han convertido en compañeros digitales
+omnipresentes en nuestros dispositivos inteligentes y hogares. Estos sistemas utilizan técnicas de procesamiento 
+del lenguaje natural y aprendizaje automático para proporcionar respuestas rápidas y precisas a nuestras consultas.
 
 La Tabla 1 presenta una comparación entre los principales asistentes virtuales del mercado.
 
@@ -41,7 +47,8 @@ La Tabla 1 presenta una comparación entre los principales asistentes virtuales 
 
 ## 2. Medicina Personalizada 
 
-La IA está revolucionando la atención médica al permitir la personalización de tratamientos según las características individuales de cada paciente. Los algoritmos de IA pueden analizar grandes conjuntos de datos clínicos y genéticos para identificar patrones y predecir la eficacia de diferentes tratamientos.
+La IA está revolucionando la atención médica al permitir la personalización de tratamientos según las características individuales de cada paciente. Los algoritmos de IA pueden analizar grandes conjuntos de datos clínicos y genéticos
+para identificar patrones y predecir la eficacia de diferentes tratamientos.
 
 La Figura 1 muestra un ejemplo de cómo la IA puede ayudar en el diagnóstico médico.
 
@@ -50,11 +57,13 @@ La Figura 1 muestra un ejemplo de cómo la IA puede ayudar en el diagnóstico m�
 </p> 
 
 >
-*"La IA tiene el potencial de democratizar la atención médica al ofrecer tratamientos personalizados y precisos a cada individuo"*- Andrew Ng
+*"La IA tiene el potencial de democratizar la atención médica al ofrecer tratamientos personalizados y
+precisos a cada individuo"*- Andrew Ng
 
 ## 3. Conducción Autónoma 
 
-Los vehículos autónomos están revolucionando la industria del transporte al utilizar sensores y algoritmos de IA para percibir su entorno y tomar decisiones en tiempo real. 
+Los vehículos autónomos están revolucionando la industria del transporte al utilizar sensores y algoritmos
+de IA para percibir su entorno y tomar decisiones en tiempo real. 
 
 La Tabla 2 muestra los diferentes niveles de autonomía en vehículos y sus capacidades asociadas.
 
@@ -86,11 +95,13 @@ La Tabla 2 muestra los diferentes niveles de autonomía en vehículos y sus capa
 </table>
 
 >
-*"La conducción autónoma no solo transformará la forma en que nos desplazamos, sino también la sociedad en su conjunto"* - Elon Musk
+*"La conducción autónoma no solo transformará la forma en que nos desplazamos, sino también la sociedad en
+ su conjunto"* - Elon Musk
 
 ## 4. Detección de Fraude Financiero
 
-En el sector financiero, la IA se utiliza para detectar y prevenir el fraude de manera más efectiva que nunca. Los algoritmos pueden analizar patrones de transacciones financieras y comportamientos sospechosos para identificar posibles fraudes.
+En el sector financiero, la IA se utiliza para detectar y prevenir el fraude de manera más efectiva que nunca.
+Los algoritmos pueden analizar patrones de transacciones financieras y comportamientos sospechosos para identificar posibles fraudes.
 
 La Figura 2 ilustra cómo la IA puede ayudar en la detección de fraude financiero.
 
@@ -100,7 +111,9 @@ La Figura 2 ilustra cómo la IA puede ayudar en la detección de fraude financie
 
 ## 5. Entretenimiento Personalizado
 
-Plataformas de streaming como Netflix y Spotify utilizan algoritmos de IA para recomendar contenido personalizado a cada usuario. Estos sistemas analizan el historial de visualización o escucha de un usuario y ofrecen recomendaciones basadas en sus preferencias individuales. 
+Plataformas de streaming como Netflix y Spotify utilizan algoritmos de IA para recomendar contenido personalizado
+a cada usuario. Estos sistemas analizan el historial de visualización o escucha de un usuario y ofrecen 
+recomendaciones basadas en sus preferencias individuales. 
 
 La Figura 3 muestra cómo funcionan los algoritmos de recomendación en Netflix.
 
@@ -109,10 +122,14 @@ La Figura 3 muestra cómo funcionan los algoritmos de recomendación en Netflix.
 </p> 
 
 >
-*"La IA está transformando la forma en que consumimos contenido, brindando experiencias más personalizadas y relevantes"* - Reed Hastings
+*"La IA está transformando la forma en que consumimos contenido, brindando experiencias más personalizadas
+y relevantes"* - Reed Hastings
 
 
-###  *Estas son solo algunas de las muchas formas en que la inteligencia artificial está moldeando nuestro mundo. A medida que continuamos explorando las posibilidades de la IA, podemos esperar aún más innovaciones que cambiarán nuestra forma de vivir y trabajar.*
+###
+*Estas son solo algunas de las muchas formas en que la inteligencia artificial está moldeando nuestro mundo.
+A medida que continuamos explorando las posibilidades de la IA, podemos esperar aún más innovaciones que 
+cambiarán nuestra forma de vivir y trabajar.*
 
 ## Enlaces de interes 
 
