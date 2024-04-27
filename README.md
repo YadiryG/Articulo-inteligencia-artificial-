@@ -3,7 +3,7 @@
 
 >
 *"La inteligencia artificial no es un producto de la ciencia ficción, es una realidad que está transformando
- nuestras vidas"- Fei-Fei Li.*  
+ nuestras vidas"- Fei-Fei Li.*   
 
 En los últimos años, hemos sido testigos de cómo la inteligencia artificial (IA) ha dejado una huella significativa
 en nuestra vida diaria. Desde asistentes virtuales hasta vehículos autónomos, la IA está en todas partes, 
