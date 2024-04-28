@@ -91,7 +91,7 @@ En el sector financiero, la IA se utiliza para detectar y prevenir el fraude de 
 La Figura 2 ilustra cómo la IA puede ayudar en la detección de fraude financiero.
 
 <p align="center">
-<img src="./logos/IA.jpg" height="500">
+<img src="./logos/identidad.jpg" height="500">
 </p> 
 
 ## 5. Entretenimiento Personalizado
@@ -101,7 +101,7 @@ Plataformas de streaming como Netflix y Spotify utilizan algoritmos de IA para r
 La Figura 3 muestra cómo funcionan los algoritmos de recomendación en Netflix.
 
 <p align="center">
-<img src="./logos/IA.jpg" height="500">
+<img src="./logos/netflix.jpg" height="500">
 </p> 
 
 *"La IA está transformando la forma en que consumimos contenido, brindando experiencias más personalizadas y relevantes"* - Reed Hastings
