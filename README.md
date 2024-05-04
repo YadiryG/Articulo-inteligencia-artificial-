@@ -53,7 +53,7 @@ para identificar patrones y predecir la eficacia de diferentes tratamientos.
 La Figura 1 muestra un ejemplo de cómo la IA puede ayudar en el diagnóstico médico.
 
 <p align="center">
-<img src=".logos/medical.jpeg" height="100">
+<img src=".logotipos/medical.jpeg" height="100">
 </p> 
 
 >
@@ -106,7 +106,7 @@ Los algoritmos pueden analizar patrones de transacciones financieras y comportam
 La Figura 2 ilustra cómo la IA puede ayudar en la detección de fraude financiero.
 
 <p align="center">
-<img src=".logos/identidad.jpeg" height="100">
+<img src=".logotipos/identidad.jpeg" height="100">
 </p> 
 
 ## 5. Entretenimiento Personalizado
@@ -119,10 +119,7 @@ La Figura 3 muestra cómo funcionan los algoritmos de recomendación en Netflix.
 
 <p align="center">
 <<<<<<< HEAD
-<img src="./logos/netflix.jpg" height="500">
-=======
-<img src="./netflix.jpeg" height="100">
->>>>>>> 0b43de7566e36af64baa3ef3118abb664cd0ad09
+<img src="./logotipos/netflix.jpg" height="500">
 </p> 
  
 >
