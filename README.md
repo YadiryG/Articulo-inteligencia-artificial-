@@ -106,11 +106,7 @@ Los algoritmos pueden analizar patrones de transacciones financieras y comportam
 La Figura 2 ilustra cómo la IA puede ayudar en la detección de fraude financiero.
 
 <p align="center">
-<<<<<<< HEAD
-<img src="./logos/identidad.jpg" height="500">
-=======
-<img src="./identidad.jpeg" height="100">
->>>>>>> 0b43de7566e36af64baa3ef3118abb664cd0ad09
+<img src=".logos/identidad.jpeg" height="100">
 </p> 
 
 ## 5. Entretenimiento Personalizado
