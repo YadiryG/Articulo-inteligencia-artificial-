@@ -53,7 +53,7 @@ para identificar patrones y predecir la eficacia de diferentes tratamientos.
 La Figura 1 muestra un ejemplo de cómo la IA puede ayudar en el diagnóstico médico.
 
 <p align="center">
-<img src="./medical.jpeg" height="100">
+<img src=".logos/medical.jpeg" height="100">
 </p> 
 
 >
